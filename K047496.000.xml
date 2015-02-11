@@ -230,7 +230,7 @@ The Island <hi>Zalayer.</hi> A very large and dangerous Shole, with an Obſervat
       <body>
          <div type="text">
             <pb n="1" facs="tcp:0698300300:25"/>
-            <milestone type="tcpmilestone" unit="year" n="1703"/>
+            <milestone type="tcpmilestone" n="1703" unit="year"/>
             <head>Mr <hi>WILLIAM FUNNEL</hi>'s Voyage to the <hi>South-Sea, &amp;c.</hi> in the Ship St <hi>George,</hi> Cap<g ref="char:EOLhyphen"/>tain <hi>William Dampier</hi> Com<g ref="char:EOLhyphen"/>mander.</head>
             <div n="1" type="chapter">
                <head>CHAP. I.</head>
@@ -270,17 +270,24 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
 <pb n="6" facs="tcp:0698300300:30"/>
                   <label type="milestone">
                      <seg type="milestoneunit">year </seg>1703</label> be ſure to loſe them. At this place we was ter'd our Ship and refreſh'd our ſelves; and here being ſome Diſagreement between our Captain and firſt Lieutenant, our Cap<g ref="char:EOLhyphen"/>tain turned him aſhore with his Cheſt and and Cloaths and Servant, much againſt both their Wills, about twelve at Night. At four the next Morning, it being the 13th of <hi>October,</hi> we parted from the ſaid Iſland, not fully reſolved what place to touch at next. On <hi>October</hi> the 22d (being in the Latitude of 6 d. 36 m. <hi>N.</hi> and Longitude from <hi>London W.</hi> about 19 d. 57 m.) we caught four Fiſh; a Shark, a Dolphin, a Jelly-fiſh and an Old-wife.</p>
-               <figure>
-                  <pb facs="tcp:0698300300:31"/>
-                  <figDesc>depiction of shark</figDesc>
-                  <head>
-                     <hi>Fig. 1.</hi> A <hi>Shark</hi> drawn on his back, being the poſture he is in when he takes his prey, his mouth not appearing in any other poſture.</head>
-               </figure>
-               <figure>
-                  <figDesc>depiction of dolphins</figDesc>
-                  <head>
-                     <hi>Fig. 2.</hi> 2 Dolphins</head>
-               </figure>
+               <p>The <hi>Shark</hi>
+                  <note place="margin">See FIG. I.</note> is a very ravenous ſort of Fiſh: Thoſe that we catch at Sea, are com<g ref="char:EOLhyphen"/>monly about five or ſix Feet in length; they have a great wide Mo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h, with three and ſometimes four rows of Teeth, very ſharp and jagged like a Sawe. It is ſo fierce a Fiſh, that when it wants its Prey, it will ſeize upon any thing, and make nothing of taking off a Man's Leg at a bite or two. He hath two Stones between his Eyes, which are accounted very good if taken inwardly by any one that has the Stone or Gravel. Theſe Stones we com<g ref="char:EOLhyphen"/>monly take out and give to our Doctor, who makes uſe of them as he finds occaſi<g ref="char:EOLhyphen"/>on: When they are taken out of the Head,
+<figure>
+                     <pb facs="tcp:0698300300:31"/>
+                     <figDesc>depiction of shark</figDesc>
+                     <head>
+                        <hi>Fig. 1.</hi> A <hi>Shark</hi> drawn on his back, being the poſture he is in when he takes his prey, his mouth not appearing in any other poſture.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of dolphins</figDesc>
+                     <head>
+                        <hi>Fig. 2.</hi> 2 Dolphins</head>
+                  </figure>
+                  <pb n="7" facs="tcp:0698300300:32"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1703</label> they are a perfect Jelly; but being laid in the Sun and dryed, they look like damp Chalk. The Shark is uſually attended with one, two, three, or more ſmall Fiſh (about the bigneſs of an ordinary Whi<g ref="char:EOLhyphen"/>ting) which go before him and ſhow him his Prey; They are called Pylot-fiſh, and look very pretty in the Water; they will play about him, be he never ſo hun<g ref="char:EOLhyphen"/>gry; and he never offers to prey upon them.</p>
                <p>The <hi>Dolphin</hi>
                   <note place="margin">See FIG. II.</note> is between four and five feet in length, ſome more, ſome leſs. It is a very pretty coloured Fiſh, and very good to eat, but ſomething dry; They feed moſtly upon Flying-fiſh, a ſort of Fiſh about the bigneſs of an ordinary Herring, and much like one; the <hi>Dolphins</hi> are ſo nimble, as to catch them when they light in the Water to wet their Wings, or rather Fins. For they can fly no longer than their Wings are wet, but then fall into the Water and mount again. It is very pretty to ſee what ſhifts and turns they will make, to get clear of their great Ene<g ref="char:EOLhyphen"/>my the Dolphin; and rather than be taken by them, they will often fly into a ſhip; but when they are in, unleſs they happen to fall into a puddle of Water they cannot fly out again, for want of moiſture in their Wings.</p>
                <p>
@@ -291,28 +298,32 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
                </p>
                <p>The <hi>Old-wife</hi>
                   <note place="margin">See Fig. IV.</note> was a Fiſh about two foot long, and 9 Inches high; He hath a ſmall Mouth, a large Eye; a great Fin on his back, beginning at the hinder part of his Head, and ſtretching to his Tail; he hath a large broad Fin on each ſide near the Gills, with one pretty large one under his Belly; his Body is of a deep Blue, and his Fins of a very light Blue, the ends of which are Yellow. His Body and Head have a great many ſpots and croſs ſtreaks or partings, as is expreſt in the <hi>Fig.</hi> There is alſo another ſort of <hi>Old-wife,</hi> ſuch as is deſcribed by Captain <hi>Dampier</hi> in his third Volume.</p>
-               <figure>
-                  <pb facs="tcp:0698300300:34"/>
-                  <figDesc>depiction of jelly fish</figDesc>
-                  <head>
-                     <hi>Fig. 3.</hi> The Jelly Fiſh.</head>
-               </figure>
-               <figure>
-                  <pb facs="tcp:0698300300:35"/>
-                  <figDesc>depiction of old wife</figDesc>
-                  <head>
-                     <hi>Fig. 4.</hi> The Old wife</head>
-               </figure>
-               <figure>
-                  <figDesc>depiction of islands of St Anns</figDesc>
-                  <head>
-                     <hi>Fig: 5.</hi> The 3 Iſlands of <hi>S<hi rend="sup">t</hi>. Anns</hi>
-                  </head>
-               </figure>
-               <figure>
-                  <head>
-                     <hi>Fig. 6.</hi> A Booby.</head>
-               </figure>
+               <p>On <hi>November</hi> 2<hi>d,</hi> 1703, we croſſed the Equator, about forty five Leagues to the
+<figure>
+                     <pb facs="tcp:0698300300:34"/>
+                     <figDesc>depiction of jelly fish</figDesc>
+                     <head>
+                        <hi>Fig. 3.</hi> The Jelly Fiſh.</head>
+                  </figure>
+                  <figure>
+                     <pb facs="tcp:0698300300:35"/>
+                     <figDesc>depiction of old wife</figDesc>
+                     <head>
+                        <hi>Fig. 4.</hi> The Old wife</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of islands of St Anns</figDesc>
+                     <head>
+                        <hi>Fig: 5.</hi> The 3 Iſlands of <hi>S<hi rend="sup">t</hi>. Anns</hi>
+                     </head>
+                  </figure>
+                  <figure>
+                     <head>
+                        <hi>Fig. 6.</hi> A Booby.</head>
+                  </figure>
+                  <pb n="9" facs="tcp:0698300300:36"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1703</label> Weſtward of the Meridian of the Iſland St <hi>Jago.</hi> Alſo this day we ſaw abundance of Flying-fiſh. We now found our ſelves in the S. E. Trade-wind, and met with but little Rains, Tornadoes, Thunder or Light<g ref="char:EOLhyphen"/>ning to the Northward of the Line.</p>
                <p>On <hi>November</hi> 8<hi>th,</hi> in the evening, we obſerved by A Z<hi>th</hi> compaſs, and found the Variation by a good amplitude to be 5d 20 m Eaſterly. Latitude by Obſervation S. 10 d 20 m. and Longitude <hi>Weſt</hi> from the Iſland St <hi>Jago,</hi> 5 d 36 m. <hi>November</hi> 10<hi>th</hi> in the morning we obſerved again by A Z<hi>th</hi> compaſs, and found Variation by the Me<g ref="char:EOLhyphen"/>dium of 3 A Z<hi>ths</hi> to be 5 d 39 m Eaſterly. Latitude by Obſervation S. 13 d 48 m. Longitude from <hi>London Weſt,</hi> 31 d 4 m. <hi>November</hi> 15<hi>th</hi> we found the variation to be 7 d 44m E. Latitude by Obſervation S. 20 d 13 m. Longitude from <hi>London</hi> W. 35 d 28 m. This day fourteen or fifteen of our people fell ill of a Fever. <hi>No<g ref="char:EOLhyphen"/>vember</hi> 19, we anchored at the Iſlands St <hi>Anns;</hi> which by my account lie in the Latitude of 22 d 20 m 8. Longitude W. from <hi>London</hi> 38 d 23 m. and we reckon here about 10 d Eaſterly Variation. We went aſhoar here, intending to wood and water, but could find no Water; ſo we cut a Long-boat-load of Wood, and came on board again, and got up our Anchors, intending to wood and water at the I<gap reason="illegible" resp="#OXF" extent="1 letter">
                      <desc>•</desc>
                   </gap>land <hi>Le Grand.</hi>
@@ -326,68 +337,82 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
                <p>The <hi>Booby</hi>
                   <note place="margin">See Fig. VI.</note> is much about the bigneſs of a Duck; ſome are quite White, ſome Grey; They have Feet like a Duck, being a Wa<g ref="char:EOLhyphen"/>ter-foul; They feed moſtly upon Flying<g ref="char:EOLhyphen"/>fiſh, which they catch Flying. I have made many a Meal of this ſort of Birds, but it was for want of other Victuals; They taſte very Fiſhy; and if you do not ſalt them very well before you eat them, they will make you ſick; They are ſo ſilly, that when they are weary of flying, they will, if you hold out your Hand, come and ſit upon it: From thence I conjecture that they are called <hi>Boobies.</hi>
                </p>
-               <figure>
-                  <pb facs="tcp:0698300300:38"/>
-                  <figDesc>map of part of Brazil</figDesc>
-                  <head>
-                     <hi>Fig: 7.</hi> PART OF BRAZILE</head>
-                  <p>The Great and Small Bay of LE GRANDE. Part of BRAZILE &amp;c.</p>
-               </figure>
+               <p>
+                  <hi>November</hi> 24<hi>th</hi> we anchored at the Iſland <hi>Le Grand;</hi> whoſe Latitude is 23 d 40 m S. Longitude from <hi>London</hi> W. 40 d 24 m. and found here about 11 d E. Variation.
+<figure>
+                     <pb facs="tcp:0698300300:38"/>
+                     <figDesc>map of part of Brazil</figDesc>
+                     <head>
+                        <hi>Fig: 7.</hi> PART OF BRAZILE</head>
+                     <p>The Great and Small Bay of LE GRANDE. Part of BRAZILE &amp;c.</p>
+                  </figure>
+                  <pb n="11" facs="tcp:0698300300:39"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1703</label> 
+                  <note place="margin">See Fig. VII.</note>This is a very woody Iſland, and hath ſe<g ref="char:EOLhyphen"/>veral very good ſprings of freſh Water upon it. The ſoil is black, and the Iſland is about nine Leagues round, and diſtant from the Main about three Miles. It is not inhabited by any other than Jaccals, Lyons, Tygers, <hi>&amp;c.</hi> Which in the Night make a moſt hideous Noiſe, enough to terrifie any Man. About three Miles from this place is the main Land, all very moun<g ref="char:EOLhyphen"/>tainous and woody, where is a ſmall Town of the <hi>Portugueze</hi> (called by the name of <hi>Le Grand</hi> Town), who come out of the Country for forty or fifty Miles round on Saint <hi>Andrews</hi> day, to pay their Devotions to that Saint, here being a ſmall Church conſecrated to his uſe. They abide here about fourteen Days, and then return to their own Dwellings. Here is Rum, Su<g ref="char:EOLhyphen"/>gar, and ſeveral ſorts of Indian Fruits to be had, but very dear by reaſon of their ſupplying the Town of St <hi>Pauls</hi> with theſe Neceſſaries; near which Town is ſaid to be a Gold-mine, accounted one of the richeſt yet known. It is diſtant from the Town of <hi>Le Grand</hi> about three hundred Miles; and is reckoned, by reaſon of the difficulty of the way and the vaſt high Mountains that intercept the paſſage, to be ſixty days journey. At this place we wooded, watered, and refitted our Ship. Here our firſt Lieutenant with eight of
+<pb n="12" facs="tcp:0698300300:40"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1703</label> our Men,) our Captain and they fal<g ref="char:EOLhyphen"/>ling out, went aſhoar with their Goods, and left us. Here alſo <hi>Charles Pickering</hi> Captain of the <hi>Cinque-ports</hi> our Conſort (a<g ref="char:EOLhyphen"/>nother main Pillar of our Voyage) depar<g ref="char:EOLhyphen"/>ted this Life, and his Body was buried aſhoar at the Watering-place, with the uſual Ceremony of firing of Guns; and Mr <hi>Tho: Stradling</hi> his Lieutenant took command of his Ship. Here is good fiſh<g ref="char:EOLhyphen"/>ing with the Saine; Fiſh being very plenti<g ref="char:EOLhyphen"/>ful, and of various ſorts, as the <hi>Silver-fiſh</hi> and ſeveral others.</p>
                <p>The <hi>Silver-fiſh</hi>
                   <note place="margin">See Fig. VIII</note> is about twenty Inches long; in height from the top of his Head to the bottom of his Belly eight Inches; he hath five ſmall Fins on the hinder-part of his Head, and one large one reaching from the hindermoſt of the five ſmall ones to the Tail. He has two midling ones, one on each ſide near the Gills, and one large one ſtretching from the middle of the bottom of his Belly to his Tail; which is half-mooned. He has a large Eye, a wide pair of Noſtrils, and a ſmall Mouth. It is a very thin Fiſh, and very bony. He is of a fine tranſparent White, and thence called by us a <hi>Silver-fiſh.</hi>
                </p>
-               <figure>
-                  <pb facs="tcp:0698300300:41"/>
-                  <figDesc>depiction of silver fish</figDesc>
-                  <head>
-                     <hi>Fig: 8.</hi> A Silver Fiſh</head>
-               </figure>
-               <figure>
-                  <figDesc>depiction of duck-like seabird</figDesc>
-                  <head>Fig: 9.</head>
-               </figure>
-               <figure>
-                  <figDesc>depiction of island of Juan Ferdenandos</figDesc>
-                  <head>
-                     <hi>Fig. 10.</hi> The Iſland of <hi>Juan Ferdenandos</hi>
-                  </head>
-                  <p>
-                     <list>
-                        <item>
-                           <gap reason="illegible" resp="#OXF" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>. The place where we waterd</item>
-                        <item>
-                           <gap reason="illegible" resp="#OXF" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>. The Eaſtmoſt point seen</item>
-                        <item>
-                           <gap reason="illegible" resp="#OXF" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>. Our firſt anchoring in y<hi rend="sup">e</hi> little Bay</item>
-                        <item>
-                           <gap reason="illegible" resp="#OXF" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>. The Weſtmoſt point seen</item>
-                        <item>
-                           <gap reason="illegible" resp="#OXF" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>. The Great Bay of J. Ferdenandos</item>
-                        <item>
-                           <gap reason="illegible" resp="#OXF" extent="1 letter">
-                              <desc>•</desc>
-                           </gap>. An other spring of freſh water</item>
-                     </list>
-                  </p>
-                  <p>
-                     <gap reason="illegible" resp="#OXF" extent="1 word">
-                        <desc>〈◊〉</desc>
-                     </gap> this Great Bay are 2 <gap reason="illegible" resp="#OXF" extent="2 letters">
-                        <desc>••</desc>
-                     </gap>ry good watering places</p>
-                  <p>Our goeing in to y<hi rend="sup">e</hi> Little Bay</p>
-                  <p>Our goeing in to y<hi rend="sup">e</hi> G. Bay</p>
-               </figure>
+               <p>
+                  <hi>December</hi> the 8th, having done our Bu<g ref="char:EOLhyphen"/>ſineſs here, we departed together with our Conſort Captain <hi>Stradling,</hi> not intending to touch any where till our arrival at the
+<figure>
+                     <pb facs="tcp:0698300300:41"/>
+                     <figDesc>depiction of silver fish</figDesc>
+                     <head>
+                        <hi>Fig: 8.</hi> A Silver Fiſh</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of duck-like seabird</figDesc>
+                     <head>Fig: 9.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of island of Juan Ferdenandos</figDesc>
+                     <head>
+                        <hi>Fig. 10.</hi> The Iſland of <hi>Juan Ferdenandos</hi>
+                     </head>
+                     <p>
+                        <list>
+                           <item>
+                              <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>. The place where we waterd</item>
+                           <item>
+                              <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>. The Eaſtmoſt point seen</item>
+                           <item>
+                              <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>. Our firſt anchoring in y<hi rend="sup">e</hi> little Bay</item>
+                           <item>
+                              <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>. The Weſtmoſt point seen</item>
+                           <item>
+                              <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>. The Great Bay of J. Ferdenandos</item>
+                           <item>
+                              <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>. An other spring of freſh water</item>
+                        </list>
+                     </p>
+                     <p>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> this Great Bay are 2 <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ry good watering places</p>
+                     <p>Our goeing in to y<hi rend="sup">e</hi> Little Bay</p>
+                     <p>Our goeing in to y<hi rend="sup">e</hi> G. Bay</p>
+                  </figure>
+                  <pb n="13" facs="tcp:0698300300:42"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1703</label> Iſland <hi>Juan Fernando's. December</hi> the fifteenth we obſerved by AZ<hi>th</hi> Com<g ref="char:EOLhyphen"/>paſs, and found the variation by a good Amplitude to be 15 d. 58 m. Eaſterly. Latitude, by Obſervation <hi>S.</hi> 34 d. 00 m. Longitude from <hi>London W.</hi> 40 d. 26 m. <hi>December</hi> the 16th, we obſerved again by AZ<hi>th</hi> Compaſs, and found variation to be 16 d. 25 m. Eaſterly. Latitude, 34 d. 35 m. <hi>S.</hi> Longitude from <hi>London W.</hi> 41 d. 46 m.</p>
                <p>
                   <hi>December</hi> the 29th, betimes in the Morn<g ref="char:EOLhyphen"/>ing we ſaw the Iſlands of <hi>Sibbil de Wards,</hi> which are three in Number, lying in the Latitude of 51 d. 35 m. <hi>S.</hi> Longitude <hi>W.</hi> from <hi>London,</hi> by my account 51 d. 37 m. and had a good Obſervation by AZ<hi>th</hi> Compaſs and found Variation to be 24 d. 00 m. Eaſterly. Captain <hi>Dampier</hi> in his <hi>Voyage round the World,</hi> computes the Longitude of theſe Iſlands Weſt from the <hi>Li<g ref="char:EOLhyphen"/>zard,</hi> to be 57 d. 28 m. The occaſion of which difference I ſuppoſe to be his ha<g ref="char:EOLhyphen"/>ving made longer Runs in that Voyage, and ſo more liable to miſtakes of this Na<g ref="char:EOLhyphen"/>ture. Whether there be any Water upon theſe Iſlands, I know not; but never did hear of any. From the time of our paſ<g ref="char:EOLhyphen"/>ſing the Latitude of 40 d. <hi>S.</hi> we ſaw a great many Birds about the Ship. And when we were off the <hi>Sibbil de Ward</hi> Iſlands, we took one remarkable Bird, which we
 <pb n="14" facs="tcp:0698300300:43"/>
@@ -420,50 +445,54 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
                   <label type="milestone">
                      <seg type="milestoneunit">year </seg>1703</label> ſo that for two Days, the Ship lay as it were without Men; But by the endea<g ref="char:EOLhyphen"/>vours of Captain <hi>Dampier</hi> they were again reconciled, and returned aboard their own Ship again.</p>
                <p>This Iſland is ſo called from the firſt Diſcoverer of it, who was a <hi>Spaniard,</hi> na<g ref="char:EOLhyphen"/>med <hi>Juan</hi> or <hi>John Fernando.</hi> It is about fourteen Leagues round; full of high Hills, and ſmall pleaſant Valleys. The Woods afford ſeveral ſorts of Trees, but none fit for Maſts. Here are <hi>Pamento</hi>-Trees in a<g ref="char:EOLhyphen"/>bundance, but the Spice was not ripe whilſt we were here: Alſo abundance of <hi>Cabbage-trees,</hi> altho ſmall, yet very good and ſweet.</p>
-               <figure>
-                  <pb facs="tcp:0698300300:48"/>
-                  <figDesc>depiction of Cabbage Tree</figDesc>
-                  <head>
-                     <hi>
-                        <gap reason="illegible" resp="#OXF" extent="2 letters">
-                           <desc>••</desc>
-                        </gap>g. 11.</hi> The Cabbage Tree <hi>with its red berrys</hi>
-                  </head>
-               </figure>
-               <figure>
-                  <figDesc>depiction of silver fish</figDesc>
-                  <head>
-                     <hi>Fig: 12.</hi> A Silver Fiſh</head>
-               </figure>
-               <figure>
-                  <figDesc>plan of Arica</figDesc>
-                  <head>Fig: 13.</head>
-                  <p>
-                     <gap reason="illegible" resp="#OXF" extent="3 letters">
-                        <desc>•••</desc>
-                     </gap>m y<hi rend="sup">e</hi> Mountain of Sama, to y<hi rend="sup">e</hi> Mountain <gap reason="illegible" resp="#OXF" extent="1 word">
-                        <desc>〈◊〉</desc>
-                     </gap> Arica, is 12 Leagues. The Coaſt from <gap reason="illegible" resp="#OXF" extent="1 word">
-                        <desc>〈◊〉</desc>
-                     </gap> to y<hi rend="sup">e</hi> other is N.E and S.W. This Port <gap reason="illegible" resp="#OXF" extent="1 word">
-                        <desc>〈◊〉</desc>
-                     </gap> Arica is a good place to anchor in, clear of <gap reason="illegible" resp="#OXF" extent="3+ letters">
-                        <desc>•••…</desc>
-                     </gap>ger; and your anchoring place is to leward <gap reason="illegible" resp="#OXF" extent="1 word">
-                        <desc>〈◊〉</desc>
-                     </gap> y<hi rend="sup">e</hi> small Iſland, and under y<hi rend="sup">e</hi> Mountaine of <gap reason="illegible" resp="#OXF" extent="3+ letters">
-                        <desc>•••…</desc>
-                     </gap>ca in 8 Fad.<hi rend="sup">m</hi> water.</p>
-               </figure>
-               <figure>
-                  <figDesc>depiction of island of Gallo</figDesc>
-                  <head>
-                     <hi>
-                        <gap reason="illegible" resp="#OXF" extent="2 letters">
-                           <desc>••</desc>
-                        </gap>g: 14.</hi> The Iſland Gallo</head>
-                  <p>Thus appears the Iſland Gallo, bearing N. diss.<hi rend="sup">e</hi> 6 or 7 Leagues. The 3 hummocks at this diss.<hi rend="sup">e</hi> looking like 3 Iſlands.</p>
-               </figure>
+               <p>The Cabbage-tree<note place="margin">See Fig. XI.</note> is of Body ſmall and ſtreight, with ſeveral Knots or Joynts about four Inches from each other, like a Bamboe-Cane, void of any Leaves, except at the top; in the midſt of which, the Cabbage is contained; which when boiled, is as good as any Garden-Cabbage I ever taſted. The Branches are commonly a<g ref="char:EOLhyphen"/>bout twelve or thirteen Feet in length, and about a foot and an half from the Trunk of the Tree they ſhoot forth Leaves, about four foot long, and an Inch and a half broad. Theſe Leaves grow ſo regu<g ref="char:EOLhyphen"/>larly that the whole Branch ſeems but one entire Leaf. The Cabbage when it is cut out from amongſt the bottoms of the
+<figure>
+                     <pb facs="tcp:0698300300:48"/>
+                     <figDesc>depiction of Cabbage Tree</figDesc>
+                     <head>
+                        <hi>
+                           <gap reason="illegible" resp="#OXF" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>g. 11.</hi> The Cabbage Tree <hi>with its red berrys</hi>
+                     </head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of silver fish</figDesc>
+                     <head>
+                        <hi>Fig: 12.</hi> A Silver Fiſh</head>
+                  </figure>
+                  <figure>
+                     <figDesc>plan of Arica</figDesc>
+                     <head>Fig: 13.</head>
+                     <p>
+                        <gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>m y<hi rend="sup">e</hi> Mountain of Sama, to y<hi rend="sup">e</hi> Mountain <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Arica, is 12 Leagues. The Coaſt from <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> to y<hi rend="sup">e</hi> other is N.E and S.W. This Port <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Arica is a good place to anchor in, clear of <gap reason="illegible" resp="#OXF" extent="3+ letters">
+                           <desc>•••…</desc>
+                        </gap>ger; and your anchoring place is to leward <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> y<hi rend="sup">e</hi> small Iſland, and under y<hi rend="sup">e</hi> Mountaine of <gap reason="illegible" resp="#OXF" extent="3+ letters">
+                           <desc>•••…</desc>
+                        </gap>ca in 8 Fad.<hi rend="sup">m</hi> water.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of island of Gallo</figDesc>
+                     <head>
+                        <hi>
+                           <gap reason="illegible" resp="#OXF" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>g: 14.</hi> The Iſland Gallo</head>
+                     <p>Thus appears the Iſland Gallo, bearing N. diss.<hi rend="sup">e</hi> 6 or 7 Leagues. The 3 hummocks at this diss.<hi rend="sup">e</hi> looking like 3 Iſlands.</p>
+                  </figure>
+                  <pb n="19" facs="tcp:0698300300:49"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1703</label> Branches, is commonly about ſix Inches about, and a foot long; ſome more, ſome leſs; and is as white as Milk. At the bot<g ref="char:EOLhyphen"/>tom of the Cabbage grow great Bunches of Berries, of about ſix pound weight, in the ſhape of a bunch of Grapes. Their Colour is red like a Cherry; and the Ber<g ref="char:EOLhyphen"/>ries are about the bigneſs of a black Cher<g ref="char:EOLhyphen"/>ry, with a large Stone in the middle; and they taſte much like <hi>Engliſh</hi> Haws. We never climb up to get the Fruit or Cabbage, be<g ref="char:EOLhyphen"/>cauſe the Tree is ſo high, and there is not any thing to hold by; ſo that a Man would find it a hard matter to get up. For I have ſeen ſome of theſe Trees, after we we have cut them down (which we always do to get the Cabbage) to be ninety or a hundred Feet in length.</p>
                <p>There are in this Iſland a great many <hi>Wild-Cats,</hi> of the fineſt Colour I ever ſaw, which were put aſhoar here (as I ſuppoſe) by the <hi>Spaniards</hi> to deſtroy the Goats: But their Project has not taken effect; for here are vaſt numbers of <hi>Goals.</hi> The old ones, both Male and Female, take turns to guard their Young; ſo that the Cats durſt not venture upon the Young, the old ones being always their Guard. I wonder the <hi>Spaniards</hi> ſhould think that by ſetting Cats aſhoar here, they ſhould deſtroy the Goats; when at the ſame time there are ſuch vaſt numbers of <hi>Seales</hi> both young
 <pb n="20" facs="tcp:0698300300:50"/>
                   <label type="milestone">
@@ -554,7 +583,7 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
             </div>
             <div n="3" type="chapter">
                <pb n="38" facs="tcp:0698300300:68"/>
-               <milestone type="tcpmilestone" unit="year" n="1704"/>
+               <milestone type="tcpmilestone" n="1704" unit="year"/>
                <head>CHAP. III.</head>
                <argument>
                   <p>Departure from <hi>Gallo.</hi> Deſign upon the Town of <hi>Sancta Maria.</hi> Cape <hi>Corrientes.</hi> Point <hi>Garachina.</hi> At<g ref="char:EOLhyphen"/>tempt upon <hi>Santa Maria.</hi> How it miſcarried. A Prize taken very ſeaſonably, when we were in great want of Proviſions. The two Cap<g ref="char:EOLhyphen"/>tains part company. The Iſland <hi>Iguanos</hi> deſcribed. Departure for the Coaſt of <hi>Peru.</hi> Another Prize taken. The River of St <hi>Jago.</hi> The Bay of <hi>Sardinas.</hi> Alligators deſcribed. Cape <hi>St Franciſco.</hi> The Iſland of <hi>Plata.</hi> The great City of <hi>Guiaquil.</hi> A Dangerous Sea-Fight. Point <hi>Gallera.</hi> The Bay of <hi>Tacames.</hi> Coco-Tree and Nut deſcribed. Plantain deſcrib'd. Bonanoes deſcribed. The Bay of <hi>St Matthew.</hi> Departure from the Bay of <hi>Tacames</hi> for the Gulf of <hi>Nicoya.</hi>
@@ -572,42 +601,60 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
                   <hi>Pinas,</hi> and ſeveral others; (of which I ſhall ſpeak in my Deſcription of the Coaſts;) we anchored at Point <hi>Garachi<g ref="char:EOLhyphen"/>na,</hi> in eighteen Fathom Water, claiey Ground, diſtant from the Point two Miles</p>
                <p>I make this Point of <hi>Garachina</hi>
                   <note place="margin">See Fig. XV.</note> to lie in the Latitude of 7 d. 20 m. N. and diſtant from Port <hi>Pinas</hi> ſeven Leagues; and from the Iſland <hi>Gallera,</hi> ſix Leagues N. W. You may ſail very well between the Iſland <hi>Gal<g ref="char:EOLhyphen"/>lera</hi> and the Main; but have a great care of a ſhoal of Sand which lies midd-way, and on which many good Ships have been loſt: But it is ſomething dangerous to ſail between the Iſland <hi>Gallera</hi> and the <hi>Kings Iſlands;</hi> for there are many Rocks, and if the Water ſhould abate, you muſt of neceſ<g ref="char:EOLhyphen"/>ſity return to Point <hi>Garachina.</hi> Point <hi>Ga<g ref="char:EOLhyphen"/>rachina</hi> makes the South Point of the Gulf of St <hi>Michael,</hi> as Cape St <hi>Laurenzo</hi> makes the North.</p>
-               <figure>
-                  <pb facs="tcp:0698300300:71"/>
-                  <figDesc>depiction of Point Garachina</figDesc>
-                  <head>Fig: 15.</head>
-                  <p>
-                     <gap reason="illegible" resp="#OXF" extent="1 letter">
-                        <desc>•</desc>
-                     </gap>oint Garachina Lat. 7: 20 North</p>
-                  <p>Thus Showeth point Garachina, bearing N, diſt: 2 Leagues.</p>
-                  <p>Thus Showeth point Garachina, bearing N.W: diſt: 5 Leagues.</p>
-               </figure>
-               <figure>
-                  <figDesc>depiction of island of Gallera</figDesc>
-                  <p>The Iſland Gallera, N ¼ E, diſt: 1 League.</p>
-                  <p>Gallera S.E. diſt: 4 Leagues.</p>
-               </figure>
-               <figure>
-                  <figDesc>depiction of bonano tree</figDesc>
-                  <head>
-                     <hi>Fig: 17.</hi> The Bonano Tree.</head>
-               </figure>
-               <figure>
-                  <figDesc>depiction of pelican</figDesc>
-                  <head>
-                     <hi>Fig: 18.</hi> A Pelican.</head>
-               </figure>
-               <figure>
-                  <figDesc>depiction of albicore</figDesc>
-                  <head>
-                     <hi>Fig: 21.</hi> An Albicore.</head>
-               </figure>
-               <figure>
-                  <figDesc>depiction of guano</figDesc>
-                  <head>
-                     <hi>Fig: 19.</hi> A Guano.</head>
-               </figure>
+               <p>Into this Gulf we were bound. So ha<g ref="char:EOLhyphen"/>ving laid here two Days, on the 27th one hundred and two of our Men with Captain <hi>Dampier</hi> and Captain <hi>Stradling</hi> in our Bark with three <hi>Spaniſh</hi> Launches went from our Ships, which we left at Point <hi>Garachina</hi> with ſixty Men to guard them, with poſi<g ref="char:EOLhyphen"/>tive Orders not to remove from the place where we left them till our return; and we proceeded on our intended Expedition for <hi>Santa Maria.</hi> At eight at Night we an<g ref="char:EOLhyphen"/>chored
+<figure>
+                     <pb facs="tcp:0698300300:71"/>
+                     <figDesc>depiction of Point Garachina</figDesc>
+                     <head>Fig: 15.</head>
+                     <p>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oint Garachina Lat. 7: 20 North</p>
+                     <p>Thus Showeth point Garachina, bearing N, diſt: 2 Leagues.</p>
+                     <p>Thus Showeth point Garachina, bearing N.W: diſt: 5 Leagues.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of island of Gallera</figDesc>
+                     <p>The Iſland Gallera, N ¼ E, diſt: 1 League.</p>
+                     <p>Gallera S.E. diſt: 4 Leagues.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of bonano tree</figDesc>
+                     <head>
+                        <hi>Fig: 17.</hi> The Bonano Tree.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of pelican</figDesc>
+                     <head>
+                        <hi>Fig: 18.</hi> A Pelican.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of albicore</figDesc>
+                     <head>
+                        <hi>Fig: 21.</hi> An Albicore.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of guano</figDesc>
+                     <head>
+                        <hi>Fig: 19.</hi> A Guano.</head>
+                  </figure>
+                  <pb n="41" facs="tcp:0698300300:72"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1704</label> amongſt the Iſlands at the Rivers Mouth, by reaſon the Tide of Ebb made ſtrongly out, ſo that we could not go againſt it. Here we lay all Night, having dark rainy Weather, with much Thunder and Lightning; ſo that we were all very wet, and had a moſt uncomfortable Night; for we were forced to lie in all the Rain, ha<g ref="char:EOLhyphen"/>ving no ſhelter either in our little Bark or Boats. By Day-light the next Morning, as we lay at anchor, the Tide of Ebb not being done, a Canoa with five <hi>Indians</hi> came within call of us. They hal'd us and ask'd from whence we came: Our <hi>Indian</hi> Pilot, by the Captain's Directions, made anſwer, that we came from <hi>Panama.</hi> He bid them come on board, but they anſwer'd they would not: So our Captain ordered them to be fired at, which accord<g ref="char:EOLhyphen"/>ingly was done. Whereupon they made what haſte they could from us. One of our Lanches was ſent after her, but in vain; for they ſoon got from us. This was of ill conſe<g ref="char:EOLhyphen"/>quence; for we were ſure they would diſ<g ref="char:EOLhyphen"/>cover us to the <hi>Spaniards</hi> at <hi>Santa Maria;</hi> who, we knew, if they heard of an Ene<g ref="char:EOLhyphen"/>my ſo near them, would not only lay Am<g ref="char:EOLhyphen"/>buſcades to annoy us going up the River, but (which was worſt of all) would carry all that was valuable out of the Town. So two of our Lanches were immediately ſent away with twenty two Hands each (Captain <hi>Strad<g ref="char:EOLhyphen"/>ling</hi>
+                  <pb n="42" facs="tcp:0698300300:73"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1704</label> commanding them) with the <hi>Indian</hi> Pilot, to take the Town of <hi>Schuchadero:</hi> And Captain <hi>Dampier</hi> and we in the Bark were to follow as ſoon as the Tide ſerved. Juſt as our two Lanches entered the River of <hi>Santa Maria,</hi> they ſaw a Canoa with three <hi>Indians</hi> come out of the River <hi>Congo.</hi> Whereupon our Men put in behind a Point of Land in the River, juſt by the entrance; ſo that the <hi>Indians</hi> in the Ca<g ref="char:EOLhyphen"/>noa not having ſeen them, were upon them before they ſuſpected any thing; and our Men immediately ſtep'd out and ſeiz'd them. It growing now towards Even, they took one of the Priſoners into the Lanch, and ſent the other two in the Canoa, with five of our Men, to ſeek the Town of <hi>Schucha<g ref="char:EOLhyphen"/>dero,</hi> which our Captain told them was on the North-ſide of the River, and about three Leagues within the Mouth. But it being dark, they could not find it. How<g ref="char:EOLhyphen"/>ever they heard the barking of a great many Dogs on the other ſide the River; whence concluding there muſt be ſome Town, they immediately put over for the other ſide. As ſoon as they approached near the Town, the two <hi>Indians</hi> which were in the Canoa with our five Men for the Out-ſcout, jumped over-board, and we loſt them. Immediately one of our Men in the Canoa, ſnatched up his Gun and fir'd at one of the <hi>Indians:</hi> Whether
+<pb n="43" facs="tcp:0698300300:74"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1704</label> he ſhot him or no, we cannot tell; but as ſoon as he had fired, there was another Gun fired from the Shoar. Upon which our Men fired a Volley, and landed, and went to the Town, which ſtood near the water-ſide, and took it without any reſiſt<g ref="char:EOLhyphen"/>ance; all the people being fled at our firſt Gun firing, knowing they were not ſtrong enough to reſiſt us: For no doubt they had Intelligence by the Canoa which eſcap'd us at the Rivers Mouth. In the Town our Men found abundance of Fowls, Maiz, Beans, Yams, Potatoes, <hi>&amp;c.</hi> but little elſe. The next Morning, being <hi>April</hi> the 27th, Captain <hi>Stradling</hi> ſent the Canoa to ſee for <hi>
+                     <g ref="char:V">Ʋ</g>s</hi> in the Bark: For after they were gone to take the Town, as ſoon as the Tide of Flood began, we got under ſail, intending to be ſoon after them. But miſtaking the Rivers-mouth, we ran paſt it; and not finding any other way to go in, we came to an anchor, and ſo were forced to lie all Night, and the next Day till Noon, the time of the Sea-breeze; at which time we met a Canoa coming out, which at firſt we ſuſpected to be Enemies, but found they were our own Men; who gave us an ac<g ref="char:EOLhyphen"/>count of the taking of the <hi>Indian</hi> Town aforeſaid, and that in the Canoa they took a Pacquet of Letters: The Letters were immediately opened; and in them was found as follows: <hi>From the Preſident of</hi>
+                  <pb n="44" facs="tcp:0698300300:75"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1704</label> Panama <hi>to the Governour of the Town of</hi> Santa Maria: That <hi>this was to let him know he had advice that two hundred and fif<g ref="char:EOLhyphen"/>ty</hi> Engliſh <hi>from</hi> Jamaica <hi>had landed on the North-ſide of the</hi> Iſthmus, <hi>and had a deſign upon the ſaid Town of</hi> Santa Maria, <hi>and that it was ſeven Days ſince he had ſent four hun<g ref="char:EOLhyphen"/>dred Soldiers to reinforce them at</hi> Santa Ma<g ref="char:EOLhyphen"/>ria, <hi>and that he did not queſtion but by the time he received the Letters they would be with him:</hi> That <hi>he would have him always keep himſelf upon his Guard, till this Advice was either diſproved or confirmed.</hi> By that time we had read this Pacquet, we were up as high as the Town that we took, which we called <hi>Schuchadero,</hi> there being another of the ſame Name on the North-ſide againſt it; and came to an anchor juſt in four fathom Water. The next Day in the Afternoon, which was <hi>April</hi> the 30th, Captain <hi>Dam<g ref="char:EOLhyphen"/>pier</hi> and Captain <hi>Stradling,</hi> with three Launches and the Canoa with eighty ſeven of our Men, proceeded for <hi>Santa Maria:</hi> And our chief Mate and my ſelf, with thirteen Hands, were left to guard the Bark, with Orders not to ſtir from the place where we lay, till our Mens return; which was ſoon afterwards: For about twelve this Night they returned on board, fruſtrated of their Deſign. Our Men gave us an account, that they were up within a quarter of a Mile of the Town; that they
+<pb n="45" facs="tcp:0698300300:76"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1704</label> were aſſaulted by three Ambuſcades, in which one of our Men was killed, and ſe<g ref="char:EOLhyphen"/>veral wounded; that our Men beat them from their Ambuſcades, and would wil<g ref="char:EOLhyphen"/>lingly have put aſhoar; but Captain <hi>Dam<g ref="char:EOLhyphen"/>pier</hi> advis'd, that ſince the <hi>Spaniards</hi> knew of our coming, and had had ſo much time as to provide Ambuſcades for us, it could not be doubted but they had made the beſt uſe of their time, and had taken care to con<g ref="char:EOLhyphen"/>vey their Wives and Children and all that was valuable, out of the Town; which is always the firſt thing they do when they hear of an Enemy: So it was reſolved to return to us at <hi>Schuchadero.</hi> And on <hi>May</hi> the 1<hi>ſt,</hi> betimes in the Morning, we left <hi>Schuchadero,</hi> and went down the River in order to return on board our Ships, which we left at Anchor at Point <hi>Garachina.</hi>
+               </p>
                <p>At our return on board, <hi>May</hi> the 6<hi>th,</hi> we were ſo ſcant of Proviſions, that there were five green Plantains order'd to be boiled for every ſix Men: But to our great comfort, when we were almoſt at our Wits-end, we deſcried a Sail at 12 this Night, who came to an Anchor cloſe by us. We ſoon got up our Anchor, and took her without any reſiſtance. This was a great Ship, of about 550 Tuns. She was deep<g ref="char:EOLhyphen"/>ly laden with Flower, Sugar, Brandy, Wine, about 30 Tuns of Marmalet of Quinces, a conſiderable quantity of Salt,
 <pb n="46" facs="tcp:0698300300:77"/>
                   <label type="milestone">
@@ -700,7 +747,7 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
             </div>
             <div n="4" type="chapter">
                <pb n="63" facs="tcp:0698300300:94"/>
-               <milestone type="tcpmilestone" unit="year" n="1704"/>
+               <milestone type="tcpmilestone" n="1704" unit="year"/>
                <head>CHAP. IV.</head>
                <argument>
                   <p>The Iſland <hi>Caneo.</hi> The Mountains called <hi>Sierras de los Coronadas.</hi> The Gulf of <hi>Nicoya.</hi> The Ship cleaned. Mr <hi>Clippinton</hi> the Chief-Mate leaves us. A particular De<g ref="char:EOLhyphen"/>ſcription of the Gulf of <hi>Nicoya.</hi> The Maccaw deſcribed. The Car<g ref="char:EOLhyphen"/>rion-Crow. The Pelican. The Guanoe. The Turtle. The Pearl-Oyſter. The Great Oyſter. Muſcles. Departure from the Gulf of <hi>Nicoya.</hi> Two Mountains of <hi>Guatimala,</hi> the one caſting out Water, the other Fire. A Prize taken. Vulcanoes. The Bay of <hi>Tewantepeque. Sub<g ref="char:EOLhyphen"/>vartaneo.</hi> Another Prize taken. The Bay of <hi>Martaba.</hi> The Moun<g ref="char:EOLhyphen"/>tains called <hi>Motines.</hi> The Mount of St <hi>Jago,</hi> and Port of <hi>Quelagna.</hi> Another Prize taken. Attempt upon the <hi>Manila</hi>-Ship, unſucceſsful. The Men deſire to return Home: But agree to cruize ſix Weeks longer, and
@@ -857,7 +904,7 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
             </div>
             <div n="5" type="chapter">
                <pb n="87" facs="tcp:0698300300:122"/>
-               <milestone type="tcpmilestone" unit="year" n="1704"/>
+               <milestone type="tcpmilestone" n="1704" unit="year"/>
                <head>CHAP. V.</head>
                <argument>
                   <p>A particular Deſcription of the Coaſt of <hi>Mexico.</hi> The Hill of <hi>Zaliſco.</hi> The Cocoa-Tree. The Iſlands <hi>Maria's.</hi> The Rocks and Points of <hi>Pontique.</hi> Cape <hi>Corrientes.</hi> The Iſlands of <hi>Chamet<g ref="char:EOLhyphen"/>ly.</hi> Port of <hi>St Jago,</hi> and of <hi>Navidad.</hi> Bay of <hi>Sallagua.</hi> The Mountains <hi>Motines.</hi> The River <hi>Sacaticli.</hi> The Mountains of <hi>Chequetan</hi> and <hi>Peta<g ref="char:EOLhyphen"/>plan. Acapulco.</hi> Port <hi>Marquiſs.</hi> Point <hi>Gallera.</hi> The Iſland <hi>Alcatrazes.</hi> Point <hi>Eſcondedo.</hi> The R. <hi>Meſſias.</hi> The River of <hi>Gallera.</hi> Port <hi>Angels.</hi> The Port of <hi>Guatulco. Mazattlan.</hi> Port of <hi>Salina. Tecoantepeque.</hi> Cat-Fiſh. The Hill of <hi>Bernall.</hi> The Vulcans of <hi>Soconuſco, Amilpas, Sapotitlan, Sacatepeque, Atitlan,</hi> and <hi>Guatimala.</hi> City of <hi>Guatima<g ref="char:EOLhyphen"/>la.</hi> The Port of <hi>Sonſonat. Trini<g ref="char:EOLhyphen"/>dad.</hi> The Vulcans of <hi>Iſalco, S. Salvadore</hi> and  <hi>
@@ -956,19 +1003,26 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
 <pb n="103" facs="tcp:0698300300:140"/>
                   <label type="milestone">
                      <seg type="milestoneunit">year </seg>1704</label> On the S. E. ſide you will ride moſt ſe<g ref="char:EOLhyphen"/>cure, becauſe it keeps you from the Winds. There is high Land on each ſide, and on the Weſt-ſide is a Rock, and with<g ref="char:EOLhyphen"/>out the Rock is a Shoal of Sand: With<g ref="char:EOLhyphen"/>in the Rock are two little <hi>Caletta's</hi> or Bays, in which is good anchoring for a ſmall Veſſel; and in each of theſe two Bays is a little Brook of freſh Water, which have their beginning from a plain of Sand; and if you go to the end of the Plain, you will ſee their Head. In this Port are very good Trees, that upon occa<g ref="char:EOLhyphen"/>ſion will ſerve to make Maſts for Ships. Here are alſo a great many Farms of Beeves, with good ſtore of Maiz, Hogs, Fowls, <hi>&amp;c.</hi> And here they make Salt not only to ſerve their own occaſions, but alſo to ſupply ſeveral Towns and Villages here<g ref="char:EOLhyphen"/>abouts.</p>
-               <figure>
-                  <pb facs="tcp:0698300300:142"/>
-                  <figDesc>view of port of Guatulcoe</figDesc>
-                  <head>Fig: 22.</head>
-               </figure>
-               <figure>
-                  <figDesc>view of port of Tequantepeque</figDesc>
-                  <head>Fig: 23.</head>
-               </figure>
-               <figure>
-                  <figDesc>view of port of Sonsonate</figDesc>
-                  <head>Fig: 24.</head>
-               </figure>
+               <p>From this Port of <hi>Angels</hi> to the Port of <hi>Guatulco,</hi> is 16 Leagues. In the way are ſeveral Rocks, Iſlands and Rivers. At the Iſland <hi>Sacrificio,</hi> on the inſide, is ſecure riding from all Winds, in five, ſix, and ſe<g ref="char:EOLhyphen"/>ven fathom water. And here you may wood and water your Ship, if you have oc<g ref="char:EOLhyphen"/>caſion. Hereabouts are excellent Pearls, found in ſeven fathom water. This Port of <hi>Guatulco</hi> is famous for its being taken by our <hi>Engliſh</hi> Hero Sir <hi>Francis Drake</hi> in the Year 1579; who in one Houſe took a
+<pb n="104" facs="tcp:0698300300:141"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1704</label> Buſhel of Money. It was afterwards taken and burnt by Sir <hi>Tho. Cavendiſh</hi> in the year 1587. But it has always been famous for being the Port in which from <hi>Mexico</hi> they ſend all ſuch Goods as they deſign for <hi>Pe<g ref="char:EOLhyphen"/>ru.</hi> 'Tis alſo the Sea-port for the great Cities of <hi>Coaxica</hi> and <hi>Orata.</hi> It is diſtant from <hi>Mexico,</hi> 65 Leagues; from <hi>Coaxica,</hi> 50; and from <hi>Orata,</hi> 35. It is all along high and mountainous Land. The Port lieth hid, and you cannot ſee it till you come within a League of it. About a League from the Port, is a ſmall round Iſland, called <hi>Tangola;</hi> which is full of Hills and Trees. And cloſe by the Weſt Point of the Port, is a Rock; and three quarters of a mile to the Eaſtward of the Rock, and in the middle of the entrance of the Port, lieth the <hi>Buffadore;</hi> which is a ſmall Rock; and when the Winds blow at S. W. the Sea breaketh a great heighth upon it: When therefore you would en<g ref="char:EOLhyphen"/>ter this Port, keep Weſt from <hi>Tangola,</hi> till you have brought the middle of the Port to bear due North: Then keep an equal diſtance between the <hi>Buffadore</hi> and the Eaſt Point of the Port. The beſt anchoring is on the Weſt ſide, due North from the Town, which conſiſts of about 150 Hou<g ref="char:EOLhyphen"/>ſes, <hi>Spaniards, Mullattoes, Moſteſe,</hi> and <hi>Indians.</hi> In it is alſo a large Church, with two ſmall Chapels; and the Houſes are ve<g ref="char:EOLhyphen"/>ry
+<figure>
+                     <pb facs="tcp:0698300300:142"/>
+                     <figDesc>view of port of Guatulcoe</figDesc>
+                     <head>Fig: 22.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>view of port of Tequantepeque</figDesc>
+                     <head>Fig: 23.</head>
+                  </figure>
+                  <figure>
+                     <figDesc>view of port of Sonsonate</figDesc>
+                     <head>Fig: 24.</head>
+                  </figure>
+                  <pb n="105" facs="tcp:0698300300:143"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1704</label> well built of Stone and Brick. This Port lies in the Latitude of 15 d. 30 m. N.<note place="margin">See Fig. XXII.</note> And we found 1 d. 56 m. weſterly va<g ref="char:EOLhyphen"/>riation.</p>
                <p>From <hi>Guatulco</hi> to the River of <hi>Capalita,</hi> is one League. It is a very deep and ſwift River, and the Tide riſes and falls five or ſix Foot.</p>
                <p>From the River of <hi>Capalita</hi> to the River <hi>Simatlan,</hi> is three Leagues. This River is inhabited by <hi>Indians;</hi> and near to the Sea-ſide are a great many Plantain-walks. The River comes as it were from the Point of <hi>Ajuta.</hi> By the Sea-ſide are a great ma<g ref="char:EOLhyphen"/>ny Farms of Cattle.</p>
                <p>From the River <hi>Simatlan</hi> to the Point of <hi>Ajuta,</hi> is two Leagues. Thence to the Iſlands of <hi>Deſtata,</hi> is five Leagues; all high mountainous Land. The Country hereabouts is very populous. Four Leagues within Land is ſaid to be a great Town, called <hi>El-Obiſpo.</hi> It hath, as is ſaid, four Churches, and at leaſt 1300 Houſes. All hereabouts are Plantain-walks; alſo ſeve<g ref="char:EOLhyphen"/>ral Eſtantions or Farms of Cattle. On the Sea-ſide, upon the Banks of the River of <hi>Deſtata,</hi> (which is right-againſt the two I<g ref="char:EOLhyphen"/>ſlands of <hi>Deſtata</hi>) is a large <hi>Indian</hi> Town, with not above three or four <hi>Spaniards</hi> in it, who lord it over the poor <hi>Indians.</hi>
@@ -1060,44 +1114,56 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
                   <label type="milestone">
                      <seg type="milestoneunit">year </seg>1704</label> two or three <hi>Spaniards</hi> will not ſuffer the poor <hi>Indians</hi> to trade for themſelves, ſay<g ref="char:EOLhyphen"/>ing, that Strangers will cheat them; and fail not to do it themſelves, of three fourths of what they are entruſted with. Were it not for theſe unlawful ſhifts, the lazy <hi>Spaniards</hi> would not grow ſo rich as they do. Here are a great many Sands, Rivers and Shoals in this Gulf; and the chief place of anchoring for the <hi>Spaniſh</hi> Ships, is on the N. E. ſide of the Iſland of <hi>Amapalla</hi> in nine, ten and eleven fathom:<note place="margin">See Fig. XXV</note> Although we anchored at the Iſland <hi>Con<g ref="char:EOLhyphen"/>chagua.</hi> The Iſland of <hi>Amapalla</hi> makes the Weſt, as Point <hi>Caſivina</hi> does the Eaſt point of the Gulf. The Point <hi>Caſivina</hi> is a high rocky Point, which at a diſtance looks like an Iſland. It lies in the Lati<g ref="char:EOLhyphen"/>tude of 12 d, 45 N. and I reckon Longi<g ref="char:EOLhyphen"/>tude from <hi>London</hi> Weſt, 97 d. 30 m. We found here 3 d. 26 m. weſterly variation. The water we found to riſe and fall nine Foot; and it is very full of Worms. At this place we caught ſeveral ſorts of Fiſh; but the moſt remarkable was the <hi>Shovel<g ref="char:EOLhyphen"/>nos'd-Shark,</hi> and a Fiſh by the <hi>Indians</hi> called a <hi>Ceawau.</hi>
                </p>
-               <figure>
-                  <pb facs="tcp:0698300300:161"/>
-                  <figDesc>map of part of Mexico</figDesc>
-                  <head>
-                     <hi>Fig. XXV.</hi> PART OF MEXICO</head>
-               </figure>
+               <p>The <hi>Shovel-nos'd-Shark</hi> is in all reſpects the ſame as the common one; Only his Head is like a Colliers Shovel, and the two extreme parts (at the edge of which on each ſide are his Eyes) go a great deal
+<figure>
+                     <pb facs="tcp:0698300300:161"/>
+                     <figDesc>map of part of Mexico</figDesc>
+                     <head>
+                        <hi>Fig. XXV.</hi> PART OF MEXICO</head>
+                  </figure>
+                  <pb n="121" facs="tcp:0698300300:162"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1704</label> broader out than his Body. Beſides, they have no Stones in their Heads, as the com<g ref="char:EOLhyphen"/>mon Shark has. But they are both alike ravenous.</p>
                <p>The <hi>Ceawau</hi>
                   <note place="margin">See Fig. XXVI.</note> was a Fiſh of about four Foot long. He had three Fins on his Back; <hi>viz.</hi> one ſmall one at the hinder<g ref="char:EOLhyphen"/>part of his Head, a great one near the middle of his Back, and another ſmall one towards his Tail. He had alſo two ſmall ones underneath, near the Gills; and two ſmall ones underneath, near the Tail; with two pretty large ones on each ſide, near the Gills. He had a large Mouth, and Teeth. He was an extraordinary good Fiſh; and his Head, when boiled, was nothing but a pure good Jelly. He was full of ſmall Spots and Partings, as is expreſs'd in the Figure. And the tip of his Fins and Tail was Yellow.</p>
                <p>From the Point of <hi>Caſivina</hi> to the <hi>Meſſa de Roldon,</hi> or the Hill of <hi>Roldon,</hi> is 5 leagues. It is a plain Hill; and at the top is a Table; near which is the Port of <hi>Martin Lopez;</hi> a fine Port, but very ſeldom made uſe of, for want of Trade. It is a very noted place, having on the top of it a great many white Clifts.</p>
-               <figure>
-                  <pb facs="tcp:0698300300:164"/>
-                  <figDesc>depiction of ceawau</figDesc>
-                  <head>
-                     <hi>Fig: 26.</hi> A Ceawau</head>
-               </figure>
-               <figure>
-                  <figDesc>depiction of yellow tail</figDesc>
-                  <head>
-                     <hi>
-                        <gap reason="illegible" resp="#OXF" extent="1 letter">
-                           <desc>•</desc>
-                        </gap>ig 28.</hi> The Yellow Tayle</head>
-               </figure>
-               <figure>
-                  <figDesc>depiction of island of Magon</figDesc>
-                  <head>Fig 29.</head>
-                  <p>
-                     <gap reason="illegible" resp="#OXF" extent="1 word">
-                        <desc>〈◊〉</desc>
-                     </gap> showeth the Iſland <hi>Magon,</hi> the W<hi rend="sup">t</hi> moſt part seen, bearing W N. W. the E<hi rend="sup">t</hi> moſt part E. N. E; and a large houſe in a white sandy bay beareing N. <gap reason="illegible" resp="#OXF" extent="1 word">
-                        <desc>〈◊〉</desc>
-                     </gap> from y<hi rend="sup">e</hi> said houſe a Mile.</p>
-               </figure>
-               <figure>
-                  <figDesc>depiction of native boat</figDesc>
-                  <head>
-                     <hi>Fig: 30.</hi> The form of y<hi rend="sup">e</hi> Indian <hi>Proe</hi> w<hi rend="sup">th</hi> its outleaker.</head>
-               </figure>
+               <p>From this Port to the South Eaſt, di<g ref="char:EOLhyphen"/>ſtance four leagues, is the Port of <hi>Ria Lexa,</hi> by ſome called <hi>Rio Leon.</hi> It is a good and ſafe Port from all Winds. If
+<pb n="122" facs="tcp:0698300300:163"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1704</label> you would enter this Port, keep the largeſt of the two Iſlands on the Larboard ſide: This Iſland, which you muſt leave on the Larboard ſide, is all Savannah: And when you are within it, bear off from the Land on the Starboard ſide, (for from the Main come many dangerous Sholes;) Then ſail directly to the Anchoring-place, which is right againſt a ſmall River on the ſaid Iſland, and is three leagues before you come to the River. At the Anchoring-place, the Harbour is pretty broad; but from thence it turns away to the Weſt, and grows narrower till you come to the Town, which is ſituated upon the River <hi>Lexa</hi> or <hi>Leon.</hi> It is ſaid to conſiſt of about eight hundred and fifty Families, being a mix<g ref="char:EOLhyphen"/>ture of <hi>Spaniards, Mullattoes, Moſtcſe,</hi> and <hi>Indians.</hi> The Houſes are ſaid to be very well built, of Brick and Stone; and that it hath five or ſix large Churches in it. As you come from Sea, the Mouth of this Port is hard to be ſeen; but look to the Vulcan of <hi>Vejo,</hi> and ſteer towards it; and you will ſee a Point, and near it a Rock, which is as high as a Ship: Make towards that Rock, and you will ſee a riſing, until you open the Mouth, whoſe entry is at the North Weſt part, and the Vulcan in the Harbour lies Eaſt. When you are in, you will find it all low Land, except the Vulcan of <hi>Vejo,</hi> which is a very great and high Vul<g ref="char:EOLhyphen"/>can,
+<figure>
+                     <pb facs="tcp:0698300300:164"/>
+                     <figDesc>depiction of ceawau</figDesc>
+                     <head>
+                        <hi>Fig: 26.</hi> A Ceawau</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of yellow tail</figDesc>
+                     <head>
+                        <hi>
+                           <gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ig 28.</hi> The Yellow Tayle</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of island of Magon</figDesc>
+                     <head>Fig 29.</head>
+                     <p>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> showeth the Iſland <hi>Magon,</hi> the W<hi rend="sup">t</hi> moſt part seen, bearing W N. W. the E<hi rend="sup">t</hi> moſt part E. N. E; and a large houſe in a white sandy bay beareing N. <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> from y<hi rend="sup">e</hi> said houſe a Mile.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of native boat</figDesc>
+                     <head>
+                        <hi>Fig: 30.</hi> The form of y<hi rend="sup">e</hi> Indian <hi>Proe</hi> w<hi rend="sup">th</hi> its outleaker.</head>
+                  </figure>
+                  <pb n="123" facs="tcp:0698300300:165"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1704</label> commonly throwing out Smoke. It is a very noted Mountain, and may be known a great many leagues off, there be<g ref="char:EOLhyphen"/>ing none (that I have ſeen) like it on all the Coaſt of <hi>Mexico.</hi> This Port of <hi>Ria Lexa,</hi> is a place of great Trade from moſt parts of <hi>Peru</hi> and <hi>Mexico,</hi> and is ſeldom or never without Shipping. In it they build ſmall Veſſels, and ſome Ships of 250 Tuns. This famous Port lies in the Lati<g ref="char:EOLhyphen"/>tude of about 12 d. 40m. N. Longitude from <hi>London</hi> 97 d. 10 m. and we found variation 3 d. 58 m. weſterly. The Iſlands are very low; ſo that every Tide they are over<g ref="char:EOLhyphen"/>flown: And upon this low and ſwampy Land are abundance of Mangrove-Trees. Within Land they make a great deal of Pitch, Tar and Cordage; of which they ſend great quantities by ſhipping, and ſup<g ref="char:EOLhyphen"/>ply moſt of theſe Weſtern parts of <hi>Mexi<g ref="char:EOLhyphen"/>co, Peru</hi> and <hi>Chili.</hi>
+               </p>
                <p>From the Port of <hi>Ria Lexa</hi> to the Ri<g ref="char:EOLhyphen"/>ver <hi>de Toſta,</hi> is three leagues. This River is ſometimes dry; but if it were not, yet the Sea runs ſo high, and falls with ſuch force upon the Shore, that there is no landing near it.</p>
                <p>From hence to <hi>Meſſa de Sutaba,</hi> or the Mountains <hi>Sutaba,</hi> is ſix leagues, all high Land, on which falls a great Sea; It is al<g ref="char:EOLhyphen"/>ſo a very windy Coaſt, and runs N. W. b. W. and S. E. b. E.</p>
                <p>
@@ -1131,12 +1197,39 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
 <pb n="130" facs="tcp:0698300300:172"/>
                   <label type="milestone">
                      <seg type="milestoneunit">year </seg>1704</label> Months of <hi>May, June, July,</hi> and <hi>Auguſt;</hi> which is the worſt of the bad Weather Monſoon, or Winter time here.</p>
-               <figure>
-                  <pb facs="tcp:0698300300:173"/>
-                  <figDesc>map of part of Mexico</figDesc>
-                  <head>
-                     <hi>Fig: XXVII.</hi> PART of MEXICO</head>
-               </figure>
+               <p>From Cape <hi>Blanco</hi> to the <hi>Herradura,</hi> is nine Leagues; between which is the Gulf of <hi>Nicoya.</hi> It is a place much uſed by the <hi>Spaniards.</hi> Captain <hi>Sharp</hi> in this place, in the River <hi>De la deſpenza,</hi> took ſome <hi>Spa<g ref="char:EOLhyphen"/>niſh</hi> Carpenters, who were building a Ship, and brought them to the Iſland <hi>Chira,</hi> with all their Tools, on board of his own Ship; where they refitted her; and in the River <hi>Tempisque</hi> they took two Barks laden with Tallow. In this ſame Gulf, in the Year 1704, near the Iſland <hi>Saint Lucas,</hi> we took a Bark of about forty Tuns. She had on board ſome Wine, Brandy and Sugar, with five or ſix <hi>Indian</hi> Carpenters and Caulkers, who came in a good time to help us to clean our Ship, and to refit her, if we had plank to do it with. At a heap of ſmall Iſlands lying in the middle of the Gulf, called the <hi>Middle Iſlands,</hi> we hauled our Ship aſhore, (as has been before related,) and cleaned her as well as we could. We found the Water here at Nepe-tides to riſe and fall eight foot; at Spring-tides, more. We lay here about two Months; and refitted, wooded and watered our Ship. Near the Cape is a ſmall Village of <hi>Indians;</hi> and before the Village are a great many Sands,
+<figure>
+                     <pb facs="tcp:0698300300:173"/>
+                     <figDesc>map of part of Mexico</figDesc>
+                     <head>
+                        <hi>Fig: XXVII.</hi> PART of MEXICO</head>
+                  </figure>
+                  <pb n="131" facs="tcp:0698300300:174"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1704</label> Rocks and Shoals; ſo that it is very diffi<g ref="char:EOLhyphen"/>cult landing near it; but not far of, are two good anchoring places. On the o<g ref="char:EOLhyphen"/>ther ſide of the Gulf, almoſt right againſt this Village, is the little Bay, called the Bay of <hi>Caldera;</hi> and right over the Bay, is a plain even Land, called the Table of <hi>Macotela;</hi> near to which are two or three poor <hi>Indian</hi> Fiſhermens Houſes. All Ships bound for <hi>Nicoya</hi> anchor at the Iſland of <hi>Chira;</hi>
+                  <note place="margin">See Fig. XXVII.</note> from whence the Town of <hi>Nicoya</hi> is diſtant about ten Leagues; conſiſting of about ſeventy or eighty Houſes, being a mixture of <hi>Spaniards</hi> and <hi>Indians.</hi> This is ſaid to be a pretty well compacted Town, and Head of a <hi>Spaniſh</hi> Govern<g ref="char:EOLhyphen"/>ment. It is governed by an Alcade or Mayor. From it come Fowls, Salt, Ho<g ref="char:EOLhyphen"/>ney, and other Proviſions, which they yearly ſend to <hi>Panama</hi> in ſmall Veſſels. The <hi>Nicoyans</hi> are a People of a middle Stature, and tawny Complexion. Before <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he coming of the <hi>Spaniards,</hi> they had very good Laws among themſelves; only <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey had no Law againſt a Man's killing <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Father, Mother, or King: They, as I <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uppoſe, thinking no Man would or could <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſo very wicked, as to murder either his <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn Parents, or the common Father of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em all, whom they uſed to adore as a God. A Thief they judged not to die, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut to be made a Slave to the Man he
+<pb n="132" facs="tcp:0698300300:175"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1704</label> robs, till by his Service he has made Sa<g ref="char:EOLhyphen"/>tisfaction. This Gulf is very much infeſt<g ref="char:EOLhyphen"/>ed with Worms. To ſome of theſe Iſlands the <hi>Spaniards</hi> frequently come to fiſh for Pearl, of which they often make very profitable Voyages. Here are alſo vaſt numbers of extraordinary good Sea-turtle: And up moſt of the Rivers (of which here are a great many) are ſeveral good Plan<g ref="char:EOLhyphen"/>tain-walks, at which we got ſtore of Plantains. In the Iſland of <hi>Chira,</hi> which lyes at the bottom of this Gulf of <hi>Nicoya,</hi> (and which, as I ſaid before, is the com<g ref="char:EOLhyphen"/>mon anchoring place for the <hi>Spaniſh</hi> Ships which trade to <hi>Nicoya,</hi>) is a ſmall Vil<g ref="char:EOLhyphen"/>lage of <hi>Indians,</hi> of about thirteen or four<g ref="char:EOLhyphen"/>teen Houſes, built of Palmeto Leaves. Here Captain <hi>Sharp</hi> formerly filled his Water in a Pond near the Sea-ſide: And here the poor <hi>Indians</hi> related to them the ſad uſage they met with from their cruel Maſters the <hi>Spaniards,</hi> who make them work for them, becauſe they have nothing to pay them tribute with. They have a ſmall Chapel here; and here they uſed formerly to make a great many Earthen Jars; but now the <hi>Indians</hi> are moſt of them run away, to get free from their cruel Maſters the <hi>Spaniards.</hi> In this Gulf are Sea-turtle, and Fiſh of ſeveral ſorts. Of Birds, here are the Pelican, the Car<g ref="char:EOLhyphen"/>rion-crow, and the Maccaw Birds; of
+<pb n="133" facs="tcp:0698300300:176"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1704</label> which I have already given a Deſcripti<g ref="char:EOLhyphen"/>on.</p>
                <p>From the <hi>Herradura</hi> which makes the Eaſt-point of this Gulf of <hi>Nicoya,</hi> to the River <hi>Eſtrella</hi> or Star-River, is eleven Leagues. The Coaſt runs N. W. by W. and S. E. by E; the Land ſomething mountainous and ſteep. Near this River are the <hi>Sierras de los Coronados,</hi> or the Crowned Mountains. Theſe are very noted Mountains, ſo that there is none like them on all the Coaſt. They are five or ſix Ridges of Mountains, each gradu<g ref="char:EOLhyphen"/>ally ſurmounting the other; and thoſe within the Land are higheſt. At the Weſt end of theſe Mountains are four Rocks, called by the <hi>Spaniards Farallones de Queipo.</hi> You may ſail between them and the Main, and there is deep Water enough. Theſe Rocks are bare, having no Trees or Buſhes on them.</p>
                <p>From hence to the Iſland <hi>Caneo,</hi> is four Leagues. This Iſland is a League round, and indifferent high Land, well clothed with ſtreight and tall Trees. It lies in the Latitude of 10 d. N. The anchoring place is on the N. E. ſide, in fourteen fathom Water, a quarter of a Mile off the ſhore; where you may wood and water. Upon this Iſland are ſaid to be ſome few wild Hogs; but for what purpoſe they were firſt ſet aſhore here, I know not:
 <pb n="134" facs="tcp:0698300300:177"/>
@@ -1215,7 +1308,7 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
             </div>
             <div n="6" type="chapter">
                <pb n="144" facs="tcp:0698300300:187"/>
-               <milestone type="tcpmilestone" unit="year" n="1704"/>
+               <milestone type="tcpmilestone" n="1704" unit="year"/>
                <head>CHAP. VI.</head>
                <argument>
                   <p>A Particular Deſcription of the Coaſt of <hi>Peru.</hi> The Bay of <hi>Panama.</hi> The City of <hi>Panama.</hi> Iſland of <hi>Perica.</hi> The Iſland <hi>Tabago.</hi> The <hi>Kings Iſlands.</hi> The Iſland <hi>Chepe<g ref="char:EOLhyphen"/>lio. Cheapo</hi> River and Town. The Iſland <hi>Planta.</hi> Cape St <hi>Lo<g ref="char:EOLhyphen"/>renzo.</hi> The Gulf of St <hi>Michaels.</hi> Point <hi>Garachina.</hi> Port <hi>Pinas.</hi> Ports of <hi>Quemado</hi> and <hi>Santa Cla<g ref="char:EOLhyphen"/>ra.</hi> Bay of St <hi>Antonio.</hi> The River of <hi>Sande.</hi> Cape <hi>Corrientes.</hi> Bay and River of <hi>Bonaventura.</hi> The Iſland <hi>Palmas. Gorgonia. Gallo. Tomaco</hi> River and Town. The <hi>Ancon</hi> of <hi>Sardinas.</hi> The Ri<g ref="char:EOLhyphen"/>ver of St <hi>Jago.</hi> Bay of St <hi>Mat<g ref="char:EOLhyphen"/>theo.</hi> The Bay of <hi>Tacames.</hi> The Point of <hi>Gallera.</hi> Cape St <hi>Fran<g ref="char:EOLhyphen"/>ciſco.</hi> The Rainy Seaſon from <hi>Ca<g ref="char:EOLunhyphen"/>lifornia</hi> to Cape St <hi>Franciſco;</hi> be<g ref="char:EOLunhyphen"/>yond which, the Rains ſeldom ex<g ref="char:EOLunhyphen"/>tend to the Southward: And th<gap reason="illegible" resp="#OXF" extent="1+ letters">
@@ -1518,7 +1611,7 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
             </div>
             <div n="7" type="chapter">
                <pb n="199" facs="tcp:0698300300:242"/>
-               <milestone type="tcpmilestone" unit="year" n="1704"/>
+               <milestone type="tcpmilestone" n="1704" unit="year"/>
                <head>CHAP. VII.</head>
                <argument>
                   <p>A Deſcription of the Coaſt of <hi>Chili.</hi> The Port of <hi>Copiapo.</hi> The Port of <hi>Guaſco. Coquimbo. Tongoi. Lymary. Choape. Govanadore. Papuda. Clintera. Concon.</hi> The River of <hi>Chili. Valparizo.</hi> Bay of <hi>Rio. Salinas. Topa de Cal<g ref="char:EOLhyphen"/>ma. Lora.</hi> River of <hi>Maule.</hi> Point of <hi>Unmos.</hi> River <hi>Itata.</hi> Point of <hi>Sinfonda.</hi> The Iſland <hi>Quinquina.</hi> City of the <hi>Conception.</hi> Port of St <hi>Vincent.</hi> The River <hi>Biobio.</hi> Hills of <hi>Guera.</hi> Port <hi>Labipi.</hi> I<g ref="char:EOLhyphen"/>ſland of <hi>Santa Maria. Canero.</hi> Hill of <hi>Tucapell.</hi> The River <hi>Im<g ref="char:EOLhyphen"/>perial.</hi> The Iſland <hi>La Moucha.</hi> River of <hi>Tolton. Valdivia</hi> Port. The Occaſion of its Name. <hi>Chili</hi> abounds moſt in Gold, as <hi>Peru</hi> does in Silver.</p>
@@ -2206,7 +2299,7 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
             </div>
             <div n="8" type="chapter">
                <pb n="218" facs="tcp:0698300300:261"/>
-               <milestone type="tcpmilestone" unit="year" n="1704"/>
+               <milestone type="tcpmilestone" n="1704" unit="year"/>
                <head>CHAP. VIII.</head>
                <argument>
                   <p>Difficulty in getting Water at the I<g ref="char:EOLhyphen"/>ſland <hi>Conchagua</hi> in the Gulf of <hi>Amapalla.</hi> Departure from the Gulf of <hi>Amapalla</hi> for <hi>India.</hi> The Fiſh <hi>Yellow-Tail</hi> deſcribed. Trade<g ref="char:EOLhyphen"/>wind brisker in the South Sea, than in the Atlantick. Very little Vari<g ref="char:EOLhyphen"/>ation obſerved in the Run over to <hi>India.</hi> Arrival at the Iſland <hi>Ma<g ref="char:EOLhyphen"/>gon.</hi> The Iſland <hi>Guam. Matan. Arracife.</hi> Three unknown Iſlands diſcovered. The <hi>Boneto</hi> deſcribed. <hi>Indians</hi> wonderfully amazed at the ſight of white Men. The Main-Land of <hi>New-Guinea.</hi> The Iſland <hi>Gillolo.</hi> Attempt to find a new Paſſage on the Coaſt of <hi>New-Guinea.</hi> A new Streight diſcovered, called St <hi>John</hi>'s Streight. The Iſlands <hi>Ce<g ref="char:EOLhyphen"/>ram</hi> and <hi>Bonoa.</hi> They indeavour in vain to get Proviſions at <hi>Manipa.</hi> Deſcription of the Iſland <hi>Manipa.</hi>
@@ -2268,62 +2361,66 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
                      <seg type="milestoneunit">year </seg>1705</label> of <hi>Magon,</hi> about ſeven leagues: So that I make this Iſland to lie in the Lati<g ref="char:EOLhyphen"/>tude of 12 d. 39 m. North. We only paſ<g ref="char:EOLhyphen"/>ſed by it at a diſtance. Wherefore I can give no particular Deſcription of it. Yet as we paſſed by, I took a Draught of it, as it ap<g ref="char:EOLhyphen"/>peared to us South, diſtance 5 leagues. The Land to us ſeemed of an indifferent height; but it was quite plain and flat on the top. This Iſland belongs to the <hi>Spaniards,</hi> who have a ſmall Fortification on it.<note place="margin">See Fig. XXXI.</note> It is kept for the conveniency of the <hi>Manila</hi>-Ship, which always touches here to refreſh, in her way to <hi>Manila.</hi>
                </p>
                <p>From hence we kept our Courſe South Weſt, and paſſed by the Iſland of <hi>Matan,</hi> which lies about ſix leagues due North from the Iſlan <hi>Guam.</hi> And at ſix this ſame Evening, being <hi>April</hi> the 11th, we took our departure from the Iſland of <hi>Magon,</hi> it then bearing North Eaſt, diſtant nine leagues. We ſtill had a freſh Gale, as u<g ref="char:EOLhyphen"/>ſual, at Eaſt by North and Eaſt North Eaſt. And on the 17th we ſaw the Iſland of <hi>Arra<g ref="char:EOLhyphen"/>cife,</hi> bearing Eaſt by North, diſtant 10 leagues. It ſeemed to be a very high Iſland. Whe<g ref="char:EOLhyphen"/>ther it is inhabited or no, I know not.</p>
-               <figure>
-                  <pb facs="tcp:0698300300:274"/>
-                  <figDesc>depiction of island of Guam</figDesc>
-                  <head>Fig. 31.</head>
-                  <p>Thus Showeth the Iſland of <hi>Guam</hi> the Body of it bearing <gap reason="illegible" resp="#OXF" extent="1 letter">
-                        <desc>•</desc>
-                     </gap>
-                     <hi rend="sup">th</hi> Diſtance 5 Leagues.</p>
-               </figure>
-               <figure>
-                  <figDesc>depiction of boneto</figDesc>
-                  <head>
-                     <hi>Fig: 32.</hi> The Boneto</head>
-               </figure>
-               <figure>
-                  <figDesc>depiction of New Guinea</figDesc>
-                  <head>
-                     <hi>Fig 33.</hi> Part of the Main of <hi>Nova Guinea.</hi>
-                  </head>
-                  <p>The Paſſage into the Eaſt Indian Sea.</p>
-                  <head>Part of the Iſland <hi>Gillolo.</hi>
-                  </head>
-               </figure>
-               <figure>
-                  <figDesc>depiction of island of Ceram</figDesc>
-                  <head>
-                     <hi>Fig. 34.</hi> Part of the Iſland <hi>Ceram.</hi>
-                  </head>
-                  <p>
-                     <list>
-                        <item>
-                           <gap reason="illegible" resp="#OXF" extent="1 letter">
-                              <desc>•</desc>
-                           </gap> A Freſh water River <gap reason="illegible" resp="#OXF" extent="1 word">
-                              <desc>〈◊〉</desc>
-                           </gap> w<hi rend="sup">ch</hi> we watered.</item>
-                        <item>
-                           <gap reason="illegible" resp="#OXF" extent="1 letter">
-                              <desc>•</desc>
-                           </gap> A Small woody Iſl.</item>
-                        <item>
-                           <gap reason="illegible" resp="#OXF" extent="1 letter">
-                              <desc>•</desc>
-                           </gap> 
-                           <gap reason="illegible" resp="#OXF" extent="1 word">
-                              <desc>〈◊〉</desc>
-                           </gap> firſt anchoring</item>
-                        <item>
-                           <gap reason="illegible" resp="#OXF" extent="1 letter">
-                              <desc>•</desc>
-                           </gap> The beſt anchor<g ref="char:EOLhyphen"/>ing place.</item>
-                     </list>
-                  </p>
-                  <head>The Iſland <hi>Bonoa</hi>
-                  </head>
-               </figure>
+               <p>From hence we ſteered away South South Weſt, till we came into the Latitude of 5 d. North. Hitherto we had fine freſh Gales of wind at North Eaſt; but now drawing near the Line, we ſound the Winds veer
+<figure>
+                     <pb facs="tcp:0698300300:274"/>
+                     <figDesc>depiction of island of Guam</figDesc>
+                     <head>Fig. 31.</head>
+                     <p>Thus Showeth the Iſland of <hi>Guam</hi> the Body of it bearing <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <hi rend="sup">th</hi> Diſtance 5 Leagues.</p>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of boneto</figDesc>
+                     <head>
+                        <hi>Fig: 32.</hi> The Boneto</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of New Guinea</figDesc>
+                     <head>
+                        <hi>Fig 33.</hi> Part of the Main of <hi>Nova Guinea.</hi>
+                     </head>
+                     <p>The Paſſage into the Eaſt Indian Sea.</p>
+                     <head>Part of the Iſland <hi>Gillolo.</hi>
+                     </head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of island of Ceram</figDesc>
+                     <head>
+                        <hi>Fig. 34.</hi> Part of the Iſland <hi>Ceram.</hi>
+                     </head>
+                     <p>
+                        <list>
+                           <item>
+                              <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> A Freſh water River <gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> w<hi rend="sup">ch</hi> we watered.</item>
+                           <item>
+                              <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> A Small woody Iſl.</item>
+                           <item>
+                              <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> 
+                              <gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> firſt anchoring</item>
+                           <item>
+                              <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> The beſt anchor<g ref="char:EOLhyphen"/>ing place.</item>
+                        </list>
+                     </p>
+                     <head>The Iſland <hi>Bonoa</hi>
+                     </head>
+                  </figure>
+                  <pb n="231" facs="tcp:0698300300:275"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1705</label> to Eaſt South Eaſt, and South Eaſt, and often met with ſmall Squalls of Wind and Rain, till we came into the Latitude of 4 d. North, and then we had a Calm for ſeven days. This was a great diſheartning to us; for now we had ſo little Victuals, that it would hardly keep us alive. For we could not allow our ſelves any more than ſix Ounces of courſe Flower a Man <hi>per</hi> day. This we uſed to ſcald with hot water, and ſo eat it. For want of ſuffici<g ref="char:EOLhyphen"/>ent Food, we now found our ſelves to grow very weak. But it was our good For<g ref="char:EOLhyphen"/>tune to have ſtore of Water, of which, when we could not ſleep for hunger, we would drink a large draught: This would ſatisfie us a little at the preſent ſo that we could ſleep; but as ſoon as we waked, we al<g ref="char:EOLhyphen"/>ways found our ſelves as hungry as before.</p>
                <p>On the 3d of <hi>May,</hi> ſprung up a ſmall Gale of Wind at Weſt; and we ſteered a<g ref="char:EOLhyphen"/>way South, till being almoſt out of hopes, becauſe the Wind began to die away again, on the 5th, about ten in the Evening, we ſmelt a very fine and fragrant ſmell, which gave us new hopes that we were near ſome Land. We looked over our Draughts; but they gave no Deſcription of any; yet we were ſure we could not be far off ſome Land, from whence that fragrant ſmell muſt proceed. So we continued in our hopes till the next Morning; when ac<g ref="char:EOLhyphen"/>cordingly
 <pb n="232" facs="tcp:0698300300:276"/>
                   <label type="milestone">
@@ -2419,7 +2516,7 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
             </div>
             <div n="9" type="chapter">
                <pb n="250" facs="tcp:0698300300:294"/>
-               <milestone type="tcpmilestone" unit="year" n="1705"/>
+               <milestone type="tcpmilestone" n="1705" unit="year"/>
                <head>CHAP. IX.</head>
                <argument>
                   <p>The <hi>A.</hi> and the whole Crew and Ship ſe<g ref="char:EOLhyphen"/>cured at <hi>Amboyna.</hi> A particular Deſcription of <hi>Amboyna;</hi> Its Si<g ref="char:EOLhyphen"/>tuation, Soil, Inhabitants, Caſtle, Buildings; Its Subjectneſs to great Earthquakes; Its Government. Of the <hi>Malayan</hi> Inhabitants in it. The Hill-<hi>Malayans</hi> always at War with the Dutch. <hi>Malayan</hi> Slaves. The Cuſtom of dealing with Debtors. Women-ſlaves. The Product of the Iſland; Cloves, Ginger, Pepper, Rattans, Canes, and Nutmegs. A particular Deſcription of the growth of Cloves, the manner of gathering them, <hi>&amp;c.</hi> Some Gold-mines ſaid to be in this Iſland. The Go<g ref="char:EOLhyphen"/>vernours annual Progreſs to viſit the Spice-Iſlands. The Beaſts and Birds upon this Iſland. The <hi>Crock<g ref="char:EOLhyphen"/>adore</hi> deſcribed. The <hi>Caſſawaris</hi> deſcribed. The <hi>Bird of Paradice.</hi>
@@ -2440,11 +2537,15 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
                   <pb n="254" facs="tcp:0698300300:298"/>
                   <label type="milestone">
                      <seg type="milestoneunit">year </seg>1705</label> And firſt, This Iſland of <hi>Amboyna</hi> is in length North Eaſt and South Weſt twelve leagues.<note place="margin">See Fig. XXXV.</note> It is a high mountainous Land; the Hills are ſomewhat barren, but the Valleys are very fruitful. The Soil is black: and the Surface of it Salt-Petreiſh. The middle of the Iſland lies in about 3 d. 40 m. South. It is inhabited by <hi>Ma<g ref="char:EOLhyphen"/>layans,</hi> who are the original Natives. They are of a middle Stature, and tawny; but the Women are of a brighter tawny than the Men, and have long black Hair, which reaches down to the Calfs of their Legs: They have round Faces, ſmall Mouths, Noſes and Lips: They wear a Linnen Waſte-coat, which reaches no lower than the lower part of their Breaſts; and about their middle they were a piece of Cloth, about four Yards wide, and a yard deep; This they roul round them, and it ſerves them inſtead of a Petty-coat; For none are allowed to wear Petty-coats but the <hi>Dutch</hi> Women only; Neither are any of the <hi>Malayan</hi> Men allowed to wear a Hat, excepting only their King.</p>
-               <figure>
-                  <pb facs="tcp:0698300300:299"/>
-                  <figDesc>map of island of Amboina</figDesc>
-                  <head>Fig: XXXV.</head>
-               </figure>
+               <p>Although the <hi>Malayans</hi> are the moſt nu<g ref="char:EOLhyphen"/>merous, yet the <hi>Dutch</hi> are poſſeſt of all the Sea-Coaſt; and have here a ſtrong Caſtle built of Stone, and mounted with ſixty Guns; beſides ſeveral other ſmall Fortifications in other parts of the Iſland. Near this Caſtle, is a ſmall Town, of
+<figure>
+                     <pb facs="tcp:0698300300:299"/>
+                     <figDesc>map of island of Amboina</figDesc>
+                     <head>Fig: XXXV.</head>
+                  </figure>
+                  <pb n="255" facs="tcp:0698300300:300"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1705</label> about a hundred <hi>Dutch</hi> Houſes, all well and ſtrongly built of Stone, Brick and Timber; but all very low, none exceed<g ref="char:EOLhyphen"/>ing one Story, becauſe of the many Earth<g ref="char:EOLhyphen"/>quakes to which this place is very ſubject; ſo that ſhould they be built higher, it would endanger the falling of them; as they often do, notwithſtanding they are ſo low. Whilſt we were here, we had a great Earthquake, which continued two Days; in which time it did a great deal of Miſchief: For the Ground burſt open in many places, and ſwallowed up ſeveral Houſes and whole Families. Several of the People were dug out again, but moſt of them dead; and many had their Legs or Arms broke by the fall of Houſes. The Caſtle-walls were rent aſunder in ſeveral Places; and we thought that It and all the Houſes would have fallen down. The Ground where we were, ſwell'd like a Wave in the Sea; but near us we had no hurt done.</p>
                <p>The Iſland is govern'd by a Council, which conſiſts of five Perſons, <hi>viz.</hi> the Governour, the Chief Merchant (or upper Koop-man,) the <hi>Malayan</hi> King, the Cap<g ref="char:EOLhyphen"/>tain of the Fort, and the Fiſcal, who is in the Nature of a Judge. Upon the Iſland are ſaid to be about 350 <hi>Dutch</hi> Soldiers, with about 120 or 130 <hi>Dutch</hi> Free-men and Petty-Officers, and near as many
 <pb n="256" facs="tcp:0698300300:301"/>
                   <label type="milestone">
@@ -2503,17 +2604,21 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
                      <seg type="milestoneunit">year </seg>1705</label> which is always either yellow or red. This Bunch of Feathers lies ſo cloſe fitted into a dent in the Head, that they can<g ref="char:EOLhyphen"/>not be perceived, unleſs when the Bird is frighted; and then he ſets it up an end, and it ſpreads open like a Fan. The Fleſh and Legs of this Bird are quite black; and they ſmell very ſweet. When thy fly wild up and down the Woods, they will call <hi>Crockadore, Crockadore;</hi> for which reaſon they go by that name.</p>
                <p>The <hi>Caſſawaris</hi>
                   <note place="margin">See Fig. XXXVI.</note> is about the bigneſs of a large <hi>Virginia</hi> Turkey. His Head is the ſame as a Turkeys; and he has a long ſtiff hairy Beard upon his Breaſt before, like a Turkey. He hath two great Legs, almoſt as thick as a Man's Wriſt; with five great Claws upon each Foot: He has a high round Back; and inſtead of Feathers only long Hairs; and the ſame upon the Pini<g ref="char:EOLhyphen"/>ons of his Wings. It lays an Egg ſo big that it will hold a Pint. The Shell is pret<g ref="char:EOLhyphen"/>ty thick, ſpotted with green and white, and looks exactly like China-ware. I ne<g ref="char:EOLhyphen"/>ver taſted the Eggs, but the Bird it ſelf is extraordinary good Victuals, as I have tried ſeveral times. It taſtes very like a Turkey, but much ſtronger.</p>
-               <figure>
-                  <pb facs="tcp:0698300300:314"/>
-                  <figDesc>depiction of cassawaris</figDesc>
-                  <head>
-                     <hi>Fig: 36.</hi> A Caſſawaris</head>
-               </figure>
-               <figure>
-                  <figDesc>depiction of sea porcupine</figDesc>
-                  <head>
-                     <hi>Fig 37.</hi> A Sea Porcupine</head>
-               </figure>
+               <p>The <hi>Birds of Paradice</hi> are about the bigneſs of a Pidgeon. They are of vari<g ref="char:EOLhyphen"/>ous Colours, and are never found or ſeen alive; neither is it known from whence
+<figure>
+                     <pb facs="tcp:0698300300:314"/>
+                     <figDesc>depiction of cassawaris</figDesc>
+                     <head>
+                        <hi>Fig: 36.</hi> A Caſſawaris</head>
+                  </figure>
+                  <figure>
+                     <figDesc>depiction of sea porcupine</figDesc>
+                     <head>
+                        <hi>Fig 37.</hi> A Sea Porcupine</head>
+                  </figure>
+                  <pb n="267" facs="tcp:0698300300:315"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">year </seg>1705</label> they come. I have ſeen ſeveral of them here embalm'd with Spice, which preſerves them from decay; And ſo embalm'd they are ſent as Rarities to ſeveral parts of the World. It is related of theſe Birds, that when the Nutmegs are ripe, which is in the Months of <hi>February</hi> and <hi>March,</hi> they reſort to the Places where they grow, <hi>viz.</hi> to <hi>Banda</hi> and this place, and eat off the outer-rind of the Nut: After which they fall down dead drunk, and an innumerable Company of Ants gather about them and feed upon them, and kill them.</p>
                <p>Of Fiſh here are alſo ſeveral ſorts; but the moſt noted is the <hi>Sea-Porcupine:</hi>
                   <note place="margin">See Fig. XXXVII.</note> It is in length about three foot, and two foot and a half round. It has a very large Eye; with two Fins on his Back, and one large one on each ſide near his Gills. It is very full of ſharp-pointed Quills, (which are hard ſtiff Bones,) and from thence is called the <hi>Sea-Porcupine.</hi>
                </p>
@@ -2555,7 +2660,7 @@ then to return again without proceeding further: But if we miſſed of Succeſs 
             </div>
             <div n="10" type="chapter">
                <pb n="275" facs="tcp:0698300300:323"/>
-               <milestone type="tcpmilestone" unit="year" n="1705"/>
+               <milestone type="tcpmilestone" n="1705" unit="year"/>
                <head>CHAP. X.</head>
                <argument>
                   <p>Departure from <hi>Amboyna,</hi> and arri<g ref="char:EOLhyphen"/>val at the Iſland of <hi>Lancas.</hi> The Iſlands <hi>Cabeſes.</hi> The Iſland <hi>Bou<g ref="char:EOLhyphen"/>ton.</hi> The Iſland <hi>Celebes.</hi> The Paſſages between <hi>Celebes</hi> and <hi>Za<g ref="char:EOLhyphen"/>layer.</hi> The Iſland <hi>Zalayer.</hi> A very large and dangerous Shole, with an Obſervation of a great Fault in the <hi>Dutch</hi> Maps relating to it. Arrival at <hi>Batavia.</hi> Deſcription of part of the Coaſt of <hi>Java. Batavia</hi> deſcribed. The Tamarind-tree. The <hi>Mangaſtan.</hi> The <hi>Rumboſtan.</hi> De<g ref="char:EOLhyphen"/>parture from <hi>Batavia</hi> for <hi>England. Bantam.</hi> Streights of <hi>Sunda.</hi> Prin<g ref="char:EOLhyphen"/>ces Iſland. The Cape of <hi>Good Hope. Hottentotes.</hi> Their beaſt<g ref="char:EOLhyphen"/>ly manner of Living. Their Wor<g ref="char:EOLhyphen"/>ſhip. The Difficulty of civilizing them. Their Houſes, <hi>&amp;c.</hi> Wild Beaſts, how killed by the <hi>Dutch.</hi> The Product of the Country. Beaſts. Fowls. Fiſhes. News from the
